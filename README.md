@@ -47,6 +47,13 @@ It also visualizes hidden layer feature representations using Principal Componen
 
 ## ▶ How to Run
 
+## 👤 Author
+
+Kota Matsuzaki  
+Tokyo Denki University
+
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
